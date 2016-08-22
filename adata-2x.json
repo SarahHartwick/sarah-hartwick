@@ -1,0 +1,30 @@
+{
+	"1" : {
+		"title" : "Golf Tac-Toe",
+		"description" : "<p>I built a golf-themed tic tac toe game with game logic to determine a winner or a tie.</p> <p>I incorporated a unique twist to score whether the winner won with a birdie, par or bogie (3, 4, or 5 moves.)</p>",
+		"client" : "Javascript/Rails",
+		"url" : "http://www.sarahhartwick.github.io/game-project-client",
+		"photos" : ["images/portfolio/img/3.jpg"]
+	},
+	"2" : {
+		"title" : "Shared Lists",
+		"description" : "<p>I built a web app for friends to create events & build shared lists of items to bring.</p><p>Users can invite friends to their events, add items to their lists & claim items on these lists.</p>",
+		"client" : "Javascript/Rails",
+		"url" : "http://www.sharedeventlists.com",
+		"photos" : ["images/portfolio/img/2.jpg"]
+	},
+	"3" : {
+		"title" : "HackStash",
+		"description" : "<p>I built this Code Challenge application with two other colleagues. It allows users to create challenges, and other users can submit javascript solutions files.</p><p>We built a method on the back end to run the JS files & grade the solutions as well.</p>",
+		"client" : "Javascript/Express",
+		"url" : "http://www.hackstash.co",
+		"photos" : ["images/portfolio/img/1.jpg"]
+	},
+	"4" : {
+		"title" : "StartHub",
+		"description" : "<p>I built an application that allows users to submit Startup Ideas & create virtual 'slide decks.'</p><p> I incorporate auth to verify the owner of the ideas, and additionally allow users to upload files.</p>",
+		"client" : "Ember.js/Rails",
+		"url" : "http://www.starthubapp.com",
+		"photos" : ["images/portfolio/img/8.jpg"]
+	}
+}
