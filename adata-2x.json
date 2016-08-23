@@ -3,7 +3,7 @@
 		"title" : "Golf Tac-Toe",
 		"description" : "<p>I built a golf-themed tic tac toe game with game logic to determine a winner or a tie.</p> <p>I incorporated a unique twist to score whether the winner won with a birdie, par or bogie (3, 4, or 5 moves.)</p>",
 		"client" : "Javascript/Rails",
-		"url" : "http://www.sarahhartwick.github.io/game-project-client",
+		"url" : "https://sarahhartwick.github.io/game-project-client",
 		"photos" : ["images/portfolio/img/3.jpg"]
 	},
 	"2" : {
